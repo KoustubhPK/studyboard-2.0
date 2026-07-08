@@ -29,10 +29,10 @@ Every core technical directory utilizes strict modular isolation rules to keep p
 *Isolated Virtual Environment: `env_nlp` (CPU Optimized)* | 🐍 [Environment Dependencies](01_nlp_and_sequential/requirements.txt)
 - [x] **Module 1: Introduction to the Program**
   - [x] Core Concepts: NLP, GenAI, and Agentic AI landscapes.
-  - [x] Deliverables: 📄 [Introduction](01_nlp_and_sequential/exercises/2026-07-03_.ipynb)
+  - [x] Deliverables: 📄 [Introduction](01_nlp_and_sequential/exercises/01-introduction.ipynb)
 - [ ] **Module 2: NLP Fundamentals**
-  - [ ] Core Concepts: Tokenization, Stemming/Lemmatization, Regular Expressions, Bag of Words, TF-IDF, Word2Vec, GloVe embeddings.
-  - [x] Deliverables: 📄 [Tokenization](01_nlp_and_sequential/exercises/2026-07-06_.ipynb)
+  - [ ] Core Concepts: Tokenization, Text Preprocessing, Bag of Words, TF-IDF, Word2Vec, GloVe embeddings.
+  - [x] Deliverables: 📄 [Tokenization](01_nlp_and_sequential/exercises/02-tokenization.ipynb) | [Text Preprocessing](01_nlp_and_sequential/exercises/03-text-preprocessing.ipynb)
 - [ ] **Module 3: Sequential Models for NLP**
   - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
   - [ ] Deliverables: 📄 [Exercises](01_nlp_and_sequential/exercises/)
