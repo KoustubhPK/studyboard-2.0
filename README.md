@@ -31,8 +31,8 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   - [x] Core Concepts: NLP, GenAI, and Agentic AI landscapes.
   - [x] Deliverables: 📄 [Introduction](01_nlp_and_sequential/exercises/01-introduction.ipynb)
 - [ ] **Module 2: NLP Fundamentals**
-  - [ ] Core Concepts: Tokenization, Text Preprocessing, Bag of Words, TF-IDF, Word2Vec, GloVe embeddings.
-  - [x] Deliverables: 📄 [Tokenization](01_nlp_and_sequential/exercises/02-tokenization.ipynb) | [Text Preprocessing](01_nlp_and_sequential/exercises/03-text-preprocessing.ipynb)
+  - [ ] Core Concepts: Tokenization, Text Preprocessing, Regex, Bag of Words, TF-IDF, Word2Vec, GloVe embeddings.
+  - [x] Deliverables: 📄 [Tokenization](01_nlp_and_sequential/exercises/02-tokenization.ipynb) | [Text Preprocessing](01_nlp_and_sequential/exercises/03-text-preprocessing.ipynb) | [Regex](01_nlp_and_sequential/exercises/04-regex.ipynb)
 - [ ] **Module 3: Sequential Models for NLP**
   - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
   - [ ] Deliverables: 📄 [Exercises](01_nlp_and_sequential/exercises/)
