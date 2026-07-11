@@ -39,6 +39,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [Text Preprocessing](01_nlp_and_sequential/exercises/03-text-preprocessing.ipynb)
   📄 [Regex](01_nlp_and_sequential/exercises/04-regex.ipynb)
   📄 [Text Representation _(One-Hot, BoW, N-Grams, TF-IDF)_](01_nlp_and_sequential/exercises/05-text-representation.ipynb)
+  📄 [Word2Vec](01_nlp_and_sequential/exercises/06_word2vec.ipynb)
 
 - [ ] **Module 3: Sequential Models for NLP**
   - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
