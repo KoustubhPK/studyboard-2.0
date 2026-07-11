@@ -2,3 +2,4 @@ ipykernel
 nltk
 pandas
 scikit-learn
+gensim
