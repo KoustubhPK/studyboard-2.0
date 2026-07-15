@@ -32,8 +32,8 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   - [x] Core Concepts: NLP, GenAI, and Agentic AI landscapes.
   - [x] Deliverables: 📄 [Introduction](01_nlp_and_sequential/exercises/01-introduction.ipynb)
 
-- [ ] **Module 2: NLP Fundamentals**
-  - [ ] Core Concepts: Tokenization, Text Preprocessing, Regex, One-Hot Encoding, Bag of Words, N-Grams, TF-IDF, Word2Vec, GloVe embeddings.
+- [x] **Module 2: NLP Fundamentals**
+  - [x] Core Concepts: Tokenization, Text Preprocessing, Regex, One-Hot Encoding, Bag of Words, N-Grams, TF-IDF, Word2Vec, GloVe embeddings.
   - [x] Deliverables:
   📄 [Tokenization](01_nlp_and_sequential/exercises/02-tokenization.ipynb)
   📄 [Text Preprocessing](01_nlp_and_sequential/exercises/03-text-preprocessing.ipynb)
@@ -41,11 +41,28 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [Text Representation _(One-Hot, BoW, N-Grams, TF-IDF)_](01_nlp_and_sequential/exercises/05-text-representation.ipynb)
   📄 [Word2Vec](01_nlp_and_sequential/exercises/06_word2vec.ipynb)
 
-- [ ] **Module 3: Sequential Models for NLP**
-  - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
-  - [ ] Deliverables: 📄 [Exercises](01_nlp_and_sequential/exercises/)
-
 ---
+
+### 🧠 02. Deep Learning Core & Transformer Mechanics
+*Isolated Virtual Environment: `env_dl` (GPU / PyTorch Accelerated)* | 🐍 [Environment Dependencies](02_deep_learning_core/requirements.txt)
+- [ ] **Module 3: Deep Learning Fundamentals**
+  - [ ] Core Concepts: Artificial Neural Networks (ANNs), Gradient Descent, Chain Rule, Loss and Activation Functions, Vanishing/Exploding Gradients.
+  - [x] Deliverables:
+  📄 [Neural Network](02_deep_learning_core/exercises/07_neural_network.ipynb)
+
+- [ ] **Module 4: Sequential Models for NLP**
+  - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
+  - [ ] Deliverables: 📁 [Exercises](02_deep_learning_core/exercises/)
+
+- [ ] **Module 5: Transformer & Attention Mechanisms**
+  - [ ] Core Concepts: Self-Attention, Scaled Dot-Product, Multi-Head Attention, Multi-Query Attention (MQA), Grouped-Query Attention (GQA).
+  - [ ] Deliverables: 📁 [Exercises](02_deep_learning_core/exercises/)
+  
+- [ ] **Module 6: Transformer Architecture & Variants**
+  - [ ] Core Concepts: Encoder-Decoder layout, Positional Encoding, BERT, RoBERTa, GPT family, T5, BART.
+  - [ ] Deliverables: 📁 [Exercises](02_deep_learning_core/exercises/)
+
+  ---
 
 ## 📜 License
 
