@@ -48,7 +48,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
 - [ ] **Module 3: Deep Learning Fundamentals**
   - [ ] Core Concepts: Artificial Neural Networks (ANNs), Gradient Descent, Chain Rule, Loss and Activation Functions, Vanishing/Exploding Gradients.
   - [x] Deliverables:
-  📄 [Neural Network](02_deep_learning_core/exercises/07_neural_network.ipynb)
+  📄 [Neural Networks: Fundamentals, Training & Optimization](02_deep_learning_core/exercises/07_neural_network.ipynb)
 
 - [ ] **Module 4: Sequential Models for NLP**
   - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
