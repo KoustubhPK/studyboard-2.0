@@ -45,22 +45,10 @@ Every core technical directory utilizes strict modular isolation rules to keep p
 
 ### 🧠 02. Deep Learning Core & Transformer Mechanics
 *Isolated Virtual Environment: `env_dl` (GPU / PyTorch Accelerated)* | 🐍 [Environment Dependencies](02_deep_learning_core/requirements.txt)
-- [ ] **Module 3: Deep Learning Fundamentals**
-  - [ ] Core Concepts: Artificial Neural Networks (ANNs), Gradient Descent, Chain Rule, Loss and Activation Functions, Vanishing/Exploding Gradients.
+- [x] **Module 3: Deep Learning Fundamentals**
+  - [x] Core Concepts: Artificial Neural Networks (ANNs), Gradient Descent, Chain Rule, Loss and Activation Functions, Vanishing/Exploding Gradients.
   - [x] Deliverables:
   📄 [Neural Networks: Fundamentals, Training & Optimization](02_deep_learning_core/exercises/07_neural_network.ipynb)
-
-- [ ] **Module 4: Sequential Models for NLP**
-  - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
-  - [ ] Deliverables: 📁 [Exercises](02_deep_learning_core/exercises/)
-
-- [ ] **Module 5: Transformer & Attention Mechanisms**
-  - [ ] Core Concepts: Self-Attention, Scaled Dot-Product, Multi-Head Attention, Multi-Query Attention (MQA), Grouped-Query Attention (GQA).
-  - [ ] Deliverables: 📁 [Exercises](02_deep_learning_core/exercises/)
-  
-- [ ] **Module 6: Transformer Architecture & Variants**
-  - [ ] Core Concepts: Encoder-Decoder layout, Positional Encoding, BERT, RoBERTa, GPT family, T5, BART.
-  - [ ] Deliverables: 📁 [Exercises](02_deep_learning_core/exercises/)
 
   ---
 
