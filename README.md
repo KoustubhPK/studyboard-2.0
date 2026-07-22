@@ -53,7 +53,8 @@ Every core technical directory utilizes strict modular isolation rules to keep p
 
 - [ ] **Module 4: Sequential Models for NLP**
   - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
-  - [ ] Deliverables: 📁 [Exercises](01_nlp_and_sequential/exercises/)
+  - [x] Deliverables:
+  📄 [Recurrent Neural Networks (RNNs)](02_deep_learning_core/exercises/09_rnn.ipynb)
 
   ---
 
