@@ -55,6 +55,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
   - [x] Deliverables:
   📄 [Recurrent Neural Networks (RNNs)](02_deep_learning_core/exercises/09_rnn.ipynb)
+  📄 [RNN Implementation using TensorFlow/Keras](02_deep_learning_core/exercises/10_rnn_implementation.ipynb)
 
   ---
 
