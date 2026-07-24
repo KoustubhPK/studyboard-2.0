@@ -56,6 +56,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   - [x] Deliverables:
   📄 [Recurrent Neural Networks (RNNs)](02_deep_learning_core/exercises/09_rnn.ipynb)
   📄 [RNN Implementation using TensorFlow/Keras](02_deep_learning_core/exercises/10_rnn_implementation.ipynb)
+  📄 [Long Short-Term Memory (LSTM) - Notes & Implementation](02_deep_learning_core/exercises/11_lstm.ipynb)
 
   ---
 
