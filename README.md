@@ -51,12 +51,13 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [Neural Networks: Fundamentals, Training & Optimization](02_deep_learning_core/exercises/07_neural_network.ipynb)
   📄 [ANN Implementation using TensorFlow/Keras](02_deep_learning_core/exercises/08_ann_implementation.ipynb)
 
-- [ ] **Module 4: Sequential Models for NLP**
-  - [ ] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
+- [x] **Module 4: Sequential Models for NLP**
+  - [x] Core Concepts: Recurrent Neural Networks (RNNs), LSTMs, GRUs, Bidirectional architectures.
   - [x] Deliverables:
   📄 [Recurrent Neural Networks (RNNs)](02_deep_learning_core/exercises/09_rnn.ipynb)
   📄 [RNN Implementation using TensorFlow/Keras](02_deep_learning_core/exercises/10_rnn_implementation.ipynb)
   📄 [Long Short-Term Memory (LSTM) - Notes & Implementation](02_deep_learning_core/exercises/11_lstm.ipynb)
+  📄 [Gated Recurrent Unit (GRU) & Bidirectional RNN](02_deep_learning_core/exercises/12_gru_&_bidirectional.ipynb)
 
   ---
 
