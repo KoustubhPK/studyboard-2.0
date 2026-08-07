@@ -62,7 +62,8 @@ Every core technical directory utilizes strict modular isolation rules to keep p
 - [ ] **Module 5: Transformer Architecture & Variants**
   - [ ] Core Concepts: Encoder-Decoder layout, Positional Encoding, BERT, RoBERTa, GPT family, T5, BART.
   - [x] Deliverables:
-  📄 [Gated Recurrent Unit (GRU) & Bidirectional RNN](02_deep_learning_core/exercises/13_encoder_decoder.ipynb)
+  📄 [Encoder–Decoder Architecture](02_deep_learning_core/exercises/13_encoder_decoder.ipynb)
+  📄 [Attention Mechanism](02_deep_learning_core/exercises/14_attention_mechanism.ipynb)
 
   ---
 
