@@ -64,6 +64,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   - [x] Deliverables:
   📄 [Encoder–Decoder Architecture](02_deep_learning_core/exercises/13_encoder_decoder.ipynb)
   📄 [Attention Mechanism](02_deep_learning_core/exercises/14_attention_mechanism.ipynb)
+  📄 [Transformer](02_deep_learning_core/exercises/15_transformer.ipynb)
 
   ---
 
