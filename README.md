@@ -68,6 +68,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [Positional Encoding](02_deep_learning_core/exercises/16_positional_encoding.ipynb)
   📄 [Hugging Face](02_deep_learning_core/exercises/17_huggingface.ipynb)
   📄 [BERT](02_deep_learning_core/exercises/18_bert.ipynb)
+  📄 [Decoding Strategies for Language Models](02_deep_learning_core/exercises/19_decoding_strategies.ipynb)
 
   ---
 
