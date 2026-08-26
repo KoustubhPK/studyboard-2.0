@@ -59,8 +59,8 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [Long Short-Term Memory (LSTM) - Notes & Implementation](02_deep_learning_core/exercises/11_lstm.ipynb)
   📄 [Gated Recurrent Unit (GRU) & Bidirectional RNN](02_deep_learning_core/exercises/12_gru_&_bidirectional.ipynb)
 
-- [ ] **Module 5: Transformer Architecture & Variants**
-  - [ ] Core Concepts: Encoder-Decoder Architecture, Positional Encoding, BERT, RoBERTa, GPT family, T5, BART.
+- [x] **Module 5: Transformer Architecture & Variants**
+  - [x] Core Concepts: Encoder-Decoder Architecture, Positional Encoding, BERT, RoBERTa, GPT family, T5, BART.
   - [x] Deliverables:
   📄 [Encoder–Decoder Architecture](02_deep_learning_core/exercises/13_encoder_decoder.ipynb)
   📄 [Attention Mechanism](02_deep_learning_core/exercises/14_attention_mechanism.ipynb)
@@ -70,7 +70,16 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [BERT](02_deep_learning_core/exercises/18_bert.ipynb)
   📄 [Decoding Strategies for Language Models](02_deep_learning_core/exercises/19_decoding_strategies.ipynb)
 
-  ---
+---
+
+### 🤖 03. Generative AI & Advanced RAG Systems
+*Isolated Virtual Environment: `env_genai` (Vector Databases & LLM Orchestration)* | 🐍 [Environment Dependencies](03_genai/requirements.txt)
+- [ ] **Module 6: Pretrained Models & LLMs**
+  - [ ] Core Concepts: LLM Landscape, evaluation scales (Perplexity, BLEU, ROUGE).
+  - [x] Deliverables:
+  📄 [Large Language Models (LLM)](03_genai/exercises/22_llm.ipynb)
+
+---
 
 ## 📜 License
 
