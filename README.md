@@ -69,6 +69,8 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [Hugging Face](02_deep_learning_core/exercises/17_huggingface.ipynb)
   📄 [BERT](02_deep_learning_core/exercises/18_bert.ipynb)
   📄 [Decoding Strategies for Language Models](02_deep_learning_core/exercises/19_decoding_strategies.ipynb)
+  📄 [Advanced Attention & LLM Training](02_deep_learning_core/exercises/20_advanced_attention_and_llm_training.ipynb)
+  📄 [BERT FineTuning](02_deep_learning_core/exercises/21_bert_fine_tuning.ipynb)
 
 ---
 
