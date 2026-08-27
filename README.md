@@ -80,6 +80,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   - [ ] Core Concepts: LLM Landscape, evaluation scales (Perplexity, BLEU, ROUGE).
   - [x] Deliverables:
   📄 [Large Language Models (LLM)](03_genai/exercises/22_llm.ipynb)
+  📄 [LangChain](03_genai/exercises/23_langchain.ipynb)
 
 ---
 
