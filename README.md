@@ -81,6 +81,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   - [x] Deliverables:
   📄 [Large Language Models (LLM)](03_genai/exercises/22_llm.ipynb)
   📄 [LangChain](03_genai/exercises/23_langchain.ipynb)
+  📄 [LangChain Document Summarization](03_genai/exercises/24_langchain_document_summarization.ipynb)
 
 ---
 
