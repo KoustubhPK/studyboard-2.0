@@ -4,3 +4,5 @@ python-dotenv
 langchain
 langchain-openai
 langchain-classic
+langchain-community
+pypdf
