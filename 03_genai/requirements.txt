@@ -6,3 +6,4 @@ langchain-openai
 langchain-classic
 langchain-community
 pypdf
+chromadb
