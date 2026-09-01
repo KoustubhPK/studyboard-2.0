@@ -82,6 +82,14 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [Large Language Models (LLM)](03_genai/exercises/22_llm.ipynb)
   📄 [LangChain](03_genai/exercises/23_langchain.ipynb)
   📄 [LangChain Document Summarization](03_genai/exercises/24_langchain_document_summarization.ipynb)
+  
+
+- [ ] **Module 7: Retrieval-Augmented Generation (RAG)**
+  - [ ] Core Concepts: RAG Architecture/Implementation, PDF Loaders, Hybrid Search (BM25 + Dense), Semantic Chunking, Vector DBs (Chroma/Pinecone), Re-ranking.
+  - [x] Deliverables:
+  📄 [RAG Architecture](03_genai/exercises/25_rag_architecture.ipynb)
+  📄 [RAG Implementation](03_genai/exercises/26_rag_implementation.ipynb)
+
 
 ---
 
