@@ -5,5 +5,9 @@ langchain
 langchain-openai
 langchain-classic
 langchain-community
-pypdf
+langchain-text-splitters
+langchain-chroma
 chromadb
+pypdf
+rank_bm25
+lark
