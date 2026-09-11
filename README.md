@@ -90,6 +90,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [RAG Architecture](03_genai/exercises/25_rag_architecture.ipynb)
   📄 [RAG Implementation](03_genai/exercises/26_rag_implementation.ipynb)
   📄 [RAG Retrievers](03_genai/exercises/27_rag_retrievers.ipynb)
+  📄 [AI Models & Open-Source Models](03_genai/exercises/28_ai_and_open_source_models.ipynb)
 
 
 ---
