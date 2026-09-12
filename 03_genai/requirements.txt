@@ -7,12 +7,16 @@ langchain-groq
 langchain-classic
 langchain-community
 langchain-text-splitters
+langchain-experimental
 langchain-huggingface
 langchain-chroma
+sentence-transformers
+"unstructured[all-docs]"
 transformers
 bitsandbytes
 torch
 chromadb
 pypdf
+tiktoken
 rank_bm25
 lark
