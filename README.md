@@ -93,6 +93,7 @@ Every core technical directory utilizes strict modular isolation rules to keep p
   📄 [AI Models & Open-Source Models](03_genai/exercises/28_ai_and_open_source_models.ipynb)
   📄 [Embedding Models & Text Splitters](03_genai/exercises/29_embedding_models_and_text_splitters.ipynb)
   📄 [Semi-Structured RAG](03_genai/exercises/30_semi_structured_rag.ipynb)
+  📄 [Multi-Modal RAG](03_genai/exercises/31_multimodal_rag.ipynb)
 
 ---
 
